@@ -15,3 +15,11 @@
 **Thoughts:** I'm very new to Express JS, it is my first time to learn new stuff beyond PHP.
 
 **Link to work:** [Boiler Express](https://boilerplate-express.blancessanchez.repl.co)
+
+### Day 2: August 16, 2021
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link to work:** [Boiler Express](https://boilerplate-express.blancessanchez.repl.co)
