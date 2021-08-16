@@ -18,8 +18,8 @@
 
 ### Day 2: August 16, 2021
 
-**Today's Progress**: 
+**Today's Progress**: Learned how to create root-level logger middleware and working with .env file.
 
-**Thoughts:** 
+**Thoughts:** Challenge regarding _Work with .env file_ got me stuck. Some challengers took them 6-7 days to finish that task. Whew!
 
-**Link to work:** [Boiler Express](https://boilerplate-express.blancessanchez.repl.co)
+**Link to work:** [Boiler Express](https://boilerplate-express-1.blancessanchez.repl.co/json)
