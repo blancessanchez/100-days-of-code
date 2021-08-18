@@ -34,8 +34,8 @@
 
 ### Day 4: August 18, 2021
 
-**Today's Progress**: Finished on the challenge Basic Node and Express.js. Started MongoDB and Mongoose.
+**Today's Progress**: Finished on the challenge Basic Node and Express.js. Started working on MongoDB and Mongoose.
 
-**Thoughts:** 
+**Thoughts:** Encountered new database application which is MongoDB. Created a new MongoDB Atlas account. https://www.freecodecamp.org/news/get-started-with-mongodb-atlas/
 
 **Link to work:** [Boiler MongoMongoose](https://boilerplate-mongomongoose.blancessanchez.repl.co)
