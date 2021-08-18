@@ -20,6 +20,22 @@
 
 **Today's Progress**: Learned how to create root-level logger middleware and working with .env file.
 
-**Thoughts:** Challenge regarding _Work with .env file_ got me stuck. Some challengers took them 6-7 days to finish that task. Whew!
+**Thoughts:** Challenge regarding _Work with .env file_ got me stuck. Some challengers took them 6-7 days to finish that task. Also learned how to create root-level logger middleware, got it perfect on the first try.
 
 **Link to work:** [Boiler Express](https://boilerplate-express-1.blancessanchez.repl.co/json)
+
+### Day 3: August 17, 2021
+
+**Today's Progress**: Learned on developing chained middleware, getting route and input parameter using Express.js.
+
+**Thoughts:** Was intimidated yet challenged.
+
+**Link to work:** [Boiler Express](https://boilerplate-express-1.blancessanchez.repl.co/json)
+
+### Day 4: August 18, 2021
+
+**Today's Progress**: Finished on the challenge Basic Node and Express.js. Started MongoDB and Mongoose.
+
+**Thoughts:** 
+
+**Link to work:** [Boiler MongoMongoose](https://boilerplate-mongomongoose.blancessanchez.repl.co)
