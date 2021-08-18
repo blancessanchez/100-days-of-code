@@ -36,6 +36,6 @@
 
 **Today's Progress**: Finished on the challenge Basic Node and Express.js. Started working on MongoDB and Mongoose.
 
-**Thoughts:** Encountered new database application which is MongoDB. Created a new MongoDB Atlas account. https://www.freecodecamp.org/news/get-started-with-mongodb-atlas/
+**Thoughts:** Encountered new database application which is MongoDB. Created a new MongoDB Atlas account. https://www.freecodecamp.org/news/get-started-with-mongodb-atlas/. Learned new authentication method -- Salted Challenge Response Authentication Mechanism (SCRAM).
 
 **Link to work:** [Boiler MongoMongoose](https://boilerplate-mongomongoose.blancessanchez.repl.co)
